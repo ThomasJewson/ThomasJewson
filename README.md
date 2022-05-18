@@ -1,4 +1,6 @@
-### 👋 Heyoo, I'm Thomas 👨‍💻
+<p align='center'>
+  ### 👋 Heyoo, I'm Thomas 👨‍💻
+</p>
 
 <p align='center'>
   Data Scientist / Engineer. Chess Player. Chemist. 
