@@ -1,6 +1,6 @@
-<p align='center'>
-  ### 👋 Heyoo, I'm Thomas 👨‍💻
-</p>
+<h1 align='center'>
+  👋 Heyoo, I'm Thomas 👨‍💻
+</h1>
 
 <p align='center'>
   Data Scientist / Engineer. Chess Player. Chemist. 
