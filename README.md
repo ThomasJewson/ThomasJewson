@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Data Scientist / Engineer. Chess Player. Chemist. Finance geek. 
+  Kovich Labs.
 </p>
 
 <p align='center'>
