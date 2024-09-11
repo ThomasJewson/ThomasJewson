@@ -1,14 +1,14 @@
 <h1 align='center'>
-  👋 Heyoo, I'm Thomas 👨‍💻
+  👋 Heyoo, I'm Tom 👨‍💻
 </h1>
 
 <p align='center'>
-  Kovich Labs.
+  Automating businesses with AI.
 </p>
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/thomas-jewson/">
+  <a href="https://www.linkedin.com/in/tom-jewson/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
